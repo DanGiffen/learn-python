@@ -1,0 +1,19 @@
+start game
+generate game logo
+generate list of people to choose from
+select 2 random entries from list and assign to A and B
+if both same reselect b
+generate v logo
+print details of each person either side of v logo
+choice = ask player who has more followers
+compare value of choice with other value
+game ends if player gets it wrong
+print message and show final score
+game continues if player gets it right. choice becomes A
+player score increments by 1
+B is a new random celeb
+show score
+
+
+
+

@@ -1,0 +1,9 @@
+create a screen layout
+scoreboard
+moving ball
+create players\n paddles
+detect wall collision and bounce
+detect paddle collision and bounce
+detect paddle miss
+
+
